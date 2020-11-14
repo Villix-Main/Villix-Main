@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Hi there I'm Dominic.
+
+<ul>
+  <li>I'm a .NET developer</li>
+</ul
+
 <!--
 **Villix-Main/Villix-Main** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +21,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1> Hello there </h1>
