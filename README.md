@@ -2,9 +2,11 @@
 
 Hi there I'm Dominic.
 
-<ul>
-  <li>I'm a .NET developer</li>
-</ul
+- I'm a .NET developer 
+- I'm a IT highschool student
+
+### Quick Review
+![Github stats](https://github-readme-stats.vercel.app/api?username=Villix-Main&theme=tokyonight&count_private=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Villix-Main&layout=compact&theme=tokyonight)
 
 <!--
 **Villix-Main/Villix-Main** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
